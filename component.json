@@ -1,0 +1,14 @@
+{
+  "name": "inflection",
+  "repo": "xcoderzach/inflection",
+  "description": "",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "lib/inflection.js",
+  "scripts": [
+    "lib/inflection.js"
+  ]
+}
